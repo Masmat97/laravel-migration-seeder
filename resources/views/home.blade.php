@@ -2,6 +2,7 @@
 <html>
 <head>
     <title>Treni in partenza oggi</title>
+    <link rel="stylesheet" href="./scss/app.scss">
 </head>
 <body>
     <h1>Treni in partenza oggi</h1>
